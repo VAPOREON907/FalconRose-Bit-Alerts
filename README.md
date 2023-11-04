@@ -1,1 +1,58 @@
 # FalconRose-Bit-Alert
+ - 1 - surprise MF
+ - 2 - Tig Ol' Bitties!
+ - 8 - Da boot
+ - 13 - Chucky
+ - 15 - Taco Time
+ - 23 - Michael Scott Don't Like this
+ - 33 - Fal Prison Mike
+ - 36 - You can do it!
+ - 56 - Loba's Bootay
+ - 65 - Kawaii
+ - 69 - No Bobs!
+ - 80 - Bootay
+ - 89 - Chrissy Wake Up!
+ - 100 - Spooks
+ - 101 - 
+ - 102 - 
+ - 103 - 
+ - 104 - 
+ - 122 - Tenatious D Guitar and laughing
+ - 123 - blank+silent for TTS
+ - 143 - I Love You
+ - 150 - Wet food all day longgggggggggggggggggggggggggggggg!
+ - 153 - Little Einsteins
+ - 172 - Kakashi Rap
+ - 185 - Pizza Daddy
+ - 200 - This place is freaking awesome
+ - 203 - Afro Circus
+ - 212 - Spicy Pizza Daddy
+ - 222 - BBB
+ - 230 - Birthday
+ - 243 - Anime "I'm a boss"
+ - 250 - Tourette's guy YMCA
+ - 272 - Ara Ara
+ - 300 - That's what she said
+ - 313 - Dancing Pizza Daddy!
+ - 323 - Kakashi Daddy
+ - 326 - I'm in danger
+ - 338 - Numa Numa
+ - 400 - I'm not superstitious, but I'm a little stitious
+ - 404 - WHERE ARE THE TURTLESSSSS?!?!?!?!?!
+ - 414 - Thirsty Pizza Daddy
+ - 420 - Office Pot Scene
+ - 427 - Harder Daddy
+ - 432 - GFC
+ - 515 - Gib Me Moar Pizza Daddy
+ - 538 - WRONGGGGG LEVERRRRRRRRRRRRRRRR
+ - 616 - Super Kakashi
+ - 634 - No More Fucks!
+ - 664 - Mario
+ - 666 - Scream
+ - 736 - Senpai
+ - 786 - Anime Pump It
+ - 883 - SECRET TUNNELLLLLL
+ - 923 - Badger badger badger
+ - 984 - The Office intro
+ - 1234 - Christmas Is Cancelled?!?!?!
+ - 1337 - WinXP Error Remix
