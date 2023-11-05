@@ -12,7 +12,10 @@
  - 69 - No Bobs!
  - 80 - Bootay
  - 89 - Chrissy Wake Up!
- - 100 - Spooks
+ - 100 - Ghost face
+ - 101 - Michael Myers
+ - 102 - Blood dripping
+ - 103 - Candlewax guy
  - 122 - Tenatious D Guitar and laughing
  - 123 - blank+silent for TTS
  - 143 - I Love You
@@ -23,32 +26,40 @@
  - 200 - This place is freaking awesome
  - 203 - Afro Circus
  - 212 - Spicy Pizza Daddy
- - 222 - BBB
+ - 222 - Beatboxing Blueberry
  - 230 - Birthday
  - 243 - Anime "I'm a boss"
  - 250 - Tourette's guy YMCA
  - 272 - Ara Ara
  - 300 - That's what she said
- - 313 - Dancing Pizza Daddy!
+ - 313 - Dancing Pizza Daddy
  - 323 - Kakashi Daddy
  - 326 - I'm in danger
  - 338 - Numa Numa
- - 400 - I'm not superstitious, but I'm a little stitious
+ - 400 - Courage the cowardly dog
  - 404 - WHERE ARE THE TURTLESSSSS?!?!?!?!?!
  - 414 - Thirsty Pizza Daddy
  - 420 - Office Pot Scene
+ - 424 - Gamecube Rick Roll
  - 427 - Harder Daddy
  - 432 - GFC
+ - 500 - My Name is Falcon
  - 515 - Gib Me Moar Pizza Daddy
+ - 536 - Loen
  - 538 - WRONGGGGG LEVERRRRRRRRRRRRRRRR
  - 616 - Super Kakashi
  - 634 - No More Fucks!
  - 664 - Mario
  - 666 - Scream
  - 736 - Senpai
+ - 777 - Lord and savior UWU
  - 786 - Anime Pump It
+ - 808 - Leon want to restart
  - 883 - SECRET TUNNELLLLLL
  - 923 - Badger badger badger
  - 984 - The Office intro
  - 1234 - Christmas Is Cancelled?!?!?!
  - 1337 - WinXP Error Remix
+ - 2020 - My butthole
+ - 2319 - Monsters Inc.
+ - 2323 - Mozambique
