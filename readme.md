@@ -1,4 +1,4 @@
-# FalconRose-Bit-Alert
+# FalconRose-Bit-Alerts
  - 1 - surprise MF
  - 2 - Tig Ol' Bitties!
  - 8 - Da boot
@@ -13,10 +13,6 @@
  - 80 - Bootay
  - 89 - Chrissy Wake Up!
  - 100 - Spooks
- - 101 - 
- - 102 - 
- - 103 - 
- - 104 - 
  - 122 - Tenatious D Guitar and laughing
  - 123 - blank+silent for TTS
  - 143 - I Love You
