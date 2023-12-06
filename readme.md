@@ -12,15 +12,20 @@
  - 69 - No Bobs!
  - 80 - Bootay
  - 89 - Chrissy Wake Up!
- - 100 - Ghost face
- - 101 - Michael Myers
+ - 100 - Random Eggplants
+ - 101 - Christmas Alert 101
  - 102 - Blood dripping
- - 103 - Candlewax guy
+ - 103 - Christmas Alert 103
+ - 104 - Christmas Alert 104
+ - 105 - Christmas Alert 105
+ - 106 - Christmas Alert 106
+ - 107 - Christmas Alert 107
  - 122 - Tenatious D Guitar and laughing
  - 123 - blank+silent for TTS
  - 143 - I Love You
- - 150 - Wet food all day longgggggggggggggggggggggggggggggg!
+ - 150 - Wet food all day longggggggggggg!
  - 153 - Little Einsteins
+ - 160 - Xbh
  - 172 - Kakashi Rap
  - 185 - Pizza Daddy
  - 200 - This place is freaking awesome
@@ -37,7 +42,7 @@
  - 326 - I'm in danger
  - 338 - Numa Numa
  - 400 - Courage the cowardly dog
- - 404 - WHERE ARE THE TURTLESSSSS?!?!?!?!?!
+ - 404 - WHERE ARE THE TURTLESSSSS?!?!?
  - 414 - Thirsty Pizza Daddy
  - 420 - Office Pot Scene
  - 424 - Gamecube Rick Roll
@@ -46,7 +51,7 @@
  - 500 - My Name is Falcon
  - 515 - Gib Me Moar Pizza Daddy
  - 536 - Loen
- - 538 - WRONGGGGG LEVERRRRRRRRRRRRRRRR
+ - 538 - WRONGGGGG LEVERRRRR
  - 616 - Super Kakashi
  - 634 - No More Fucks!
  - 664 - Mario
